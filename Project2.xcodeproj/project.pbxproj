@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0ABE7562326D537001ADF70 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D0ABE7552326D537001ADF70 /* start.txt */; };
+		D0ABE758232842AA001ADF70 /* Project2 in Resources */ = {isa = PBXBuildFile; fileRef = D0ABE757232842AA001ADF70 /* Project2 */; };
 		D0F551D9222C63D300D5147C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F551D8222C63D300D5147C /* AppDelegate.swift */; };
 		D0F551DB222C63D300D5147C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F551DA222C63D300D5147C /* ViewController.swift */; };
 		D0F551DE222C63D300D5147C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0F551DC222C63D300D5147C /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0ABE7552326D537001ADF70 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		D0ABE757232842AA001ADF70 /* Project2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project2; sourceTree = "<group>"; };
 		D0F551D5222C63D300D5147C /* Project2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F551D8222C63D300D5147C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0F551DA222C63D300D5147C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,9 +60,11 @@
 			children = (
 				D0F551D8222C63D300D5147C /* AppDelegate.swift */,
 				D0F551DA222C63D300D5147C /* ViewController.swift */,
+				D0ABE757232842AA001ADF70 /* Project2 */,
 				D0F551DC222C63D300D5147C /* Main.storyboard */,
 				D0F551DF222C63D400D5147C /* Assets.xcassets */,
 				D0F551E1222C63D400D5147C /* LaunchScreen.storyboard */,
+				D0ABE7552326D537001ADF70 /* start.txt */,
 				D0F551E4222C63D400D5147C /* Info.plist */,
 			);
 			path = Project2;
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0F551E3222C63D400D5147C /* LaunchScreen.storyboard in Resources */,
+				D0ABE758232842AA001ADF70 /* Project2 in Resources */,
+				D0ABE7562326D537001ADF70 /* start.txt in Resources */,
 				D0F551E0222C63D400D5147C /* Assets.xcassets in Resources */,
 				D0F551DE222C63D300D5147C /* Main.storyboard in Resources */,
 			);
